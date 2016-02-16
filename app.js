@@ -23,6 +23,22 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+// read file
+
+var fs = require('fs');
+var file = __dirname + '/public/list/list.json';
+
+fs.readFile(file, 'utf8', function (err, data) {
+  if (err) {
+    console.log('Error: ' + err);
+    return;
+  }
+
+  data = JSON.parse(data);
+
+  //console.dir(data);
+});
+// read file end
 
 app.use('/', routes);
 app.use('/users', users);
