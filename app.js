@@ -5,7 +5,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var fs = require('fs');
+//var fs = require('fs');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
@@ -25,9 +25,9 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 // read file
 
-var fs = require('fs');
+/*
 var file = __dirname + '/public/list/list.json';
-
+var data;
 fs.readFile(file, 'utf8', function (err, data) {
   if (err) {
     console.log('Error: ' + err);
@@ -36,8 +36,9 @@ fs.readFile(file, 'utf8', function (err, data) {
 
   data = JSON.parse(data);
 
-  //console.dir(data);
+  console.log(data);
 });
+*/
 // read file end
 
 app.use('/', routes);
