@@ -9,9 +9,13 @@
 <body>
   top40
 
-  <% JSON.parse(lista).forEach(function(item) { %>
-    <%- item.Year.top2011.top40.id.top01 %>
-  <% }; %>
+<%  for (var key in lista) { %>
+  <% if (lista.hasOwnProperty(key)) { %>
+   <%-  lista.id.top01 %>
+  <%} %>
+<%}%>
+
+
 </body>
 
 </html>
