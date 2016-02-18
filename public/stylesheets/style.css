@@ -1,13 +1,14 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-image: url(/images/black.png) ;	
+  background-image: url(/images/black.png) ;
   background-size:  100%;
   background-repeat: no-repeat;
-  
+  background-size: cover;
+
 }
 div{
-	
+
 }
 
 a {
@@ -19,49 +20,69 @@ youtube{
 }
 h1,h2,p{
 	color: gainsboro;
-	
+
 
 }
 .youtube{
 	width: 7%;
 	float: left;
+<<<<<<< HEAD
 	margin-left: 670px;
 	 margin-top: -45px;
+=======
+  padding-right: 10px;
+  margin: 20px;
+>>>>>>> upstream/master
 	border: 0px;
-	
-	
+
+
 }
 .spotify{
 	    width: 10%;
 	    float: left;
 	    clear: both;
+<<<<<<< HEAD
 	    margin-left: 810px;
 	    margin-top: -48px;
+=======
+      margin: 20px;
+      padding-right: 10px;
+
+>>>>>>> upstream/master
 }
 
-.top40{ 
-       
+.top40{
+
 	   float: left;
 	   width:20%;
 	   padding-right: 50px;
+<<<<<<< HEAD
 	   padding-left: 350px;
 	   
+=======
+	   padding-left: 400px;
+
+>>>>>>> upstream/master
 }
 .text{
-	
+
 	float: left;
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 
 
 }
 h1{
 	margin-top: -3px;
+<<<<<<< HEAD
 	line-height: 150%;	
+=======
+	line-height: 200%;
+>>>>>>> upstream/master
 }
 h2{
 	line-height: 150%;

@@ -15,15 +15,28 @@ router.get('/', function(req, res, next) {
 
     lista = JSON.parse(data);
     console.log(lista);
+    alldata = "<div class=\"text\">";
+    var top40_2011 = lista.Year.year2011.top40; //get the array
+    for (var i = 0; i < top40_2011.length; i++) {
+      alldata += "<img src=\"" + top40_2011[i].album_cover +"\">";
+
+      alldata += "<h1>" + top40_2011[i].artist_namn +"</h2>";
+      alldata += "<h2>" + top40_2011[i].song +"</h2>";
+      alldata += "<a href=\"" + top40_2011[i].spotify +"\"><img src=\"/images/spotify.png\"  class=\"spotify\"></a>";
+      alldata += "<a href=\"" + top40_2011[i].youtube +"\"><img src=\"/images/youtube.png\" class=\"youtube\"></a>";
+      alldata += "<br>";
+      alldata += "</div>";
+
+
+
+      /* Access the values using the keys : */
+      //console.log(top40_2011[i].pos);
+      //console.log(top40_2011[i].artist_namn);
+      //console.log(top40_2011[i].song);
+    }
+    console.log(alldata);
     res.render('index', {
-      album_cover: lista.Year.top2011.top40.id.top01.album_cover,
-      artist_namn: lista.Year.top2011.top40.id.top01.artist_namn,
-      song: lista.Year.top2011.top40.id.top01.artist_namn,
-      spotify: lista.Year.top2011.top40.id.top01.spotify,
-      youtube: lista.Year.top2011.top40.id.top01.youtube
-
-
-
+      lista : alldata
     });
   });
 });
