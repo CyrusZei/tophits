@@ -5,20 +5,20 @@
         "id": {
           "top01": {
             "album_cover": "http://o.scdn.co/image/830a22646bc38f72df95ec98e3ab6bb19aa6074b",
-        "artist namn": "Adele",
-        "song": "Rolling In The Deep",
-        "spotify": "http://open.spotify.com/track/7h8Ud480Fm4ReUVxgFF9ZX",
-        "youtube": "http://youtu.be/rYEDA3JcQqw"
-      },
-      "top02": {
-        "album_cover": "http://o.scdn.co/image/215c999786e8319a09b7af87a970c2bdb6747c92",
-        "artist namn": "LMFAO",
-        "song": "Party Rock Anthem",
-        "spotify": "http://open.spotify.com/track/1CNJyTUh56oj3OCZOZ5way",
-        "youtube": "http://youtu.be/KQ6zr6kCPj8"
+            "artist_namn": "Adele",
+            "song": "Rolling In The Deep",
+            "spotify": "http://open.spotify.com/track/7h8Ud480Fm4ReUVxgFF9ZX",
+            "youtube": "http://youtu.be/rYEDA3JcQqw"
+          },
+          "top02": {
+            "album_cover": "http://o.scdn.co/image/215c999786e8319a09b7af87a970c2bdb6747c92",
+            "artist_namn": "LMFAO",
+            "song": "Party Rock Anthem",
+            "spotify": "http://open.spotify.com/track/1CNJyTUh56oj3OCZOZ5way",
+            "youtube": "http://youtu.be/KQ6zr6kCPj8"
+          }
+        }
       }
     }
-  }
-}
   }
 }

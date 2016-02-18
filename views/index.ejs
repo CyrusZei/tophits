@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
 
-    <h1>Top Hits year : :<%= title %></h1>
-    <h2>Adele<%= title %></h2>
-    <p>Rolling In The Deep <%= title %></p>
-      <a href="http://open.spotify.com/track/7h8Ud480Fm4ReUVxgFF9ZX " target="_blank"><img src="/images/spotify.jpg"></a>
-    <a href="http://youtu.be/rYEDA3JcQqw" target="_blank"><img src="/images/youtube.png"></a>
+    <img src="<%= album_cover %>">
+    <h2><%= artist_namn %></h2>
+    <p><%= song %></p>
+      <a href="<%= spotify %>" target="_blank"><img src="/images/spotify.jpg"></a>
+    <a href="<%= youtube %>" target="_blank"><img src="/images/youtube.png"></a>
   </body>
 </html>
