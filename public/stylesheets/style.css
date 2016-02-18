@@ -25,8 +25,8 @@ h1,h2,p{
 .youtube{
 	width: 7%;
 	float: left;
-	margin-left: 770px;
-	 margin-top: -55px;
+	margin-left: 670px;
+	 margin-top: -45px;
 	border: 0px;
 	
 	
@@ -35,8 +35,8 @@ h1,h2,p{
 	    width: 10%;
 	    float: left;
 	    clear: both;
-	    margin-left: 910px;
-	    margin-top: -58px;
+	    margin-left: 810px;
+	    margin-top: -48px;
 }
 
 .top40{ 
@@ -44,7 +44,7 @@ h1,h2,p{
 	   float: left;
 	   width:20%;
 	   padding-right: 50px;
-	   padding-left: 400px;
+	   padding-left: 350px;
 	   
 }
 .text{
@@ -61,13 +61,13 @@ h1,h2,p{
 }
 h1{
 	margin-top: -3px;
-	line-height: 200%;	
+	line-height: 150%;	
 }
 h2{
-	line-height: 200%;
+	line-height: 150%;
 	font-size: 2em;
 }
 p{
-	line-height: 200%;
+	line-height: 150%;
 	font-size: 2em;
 }
