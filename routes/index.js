@@ -15,12 +15,22 @@ router.get('/', function(req, res, next) {
 
     lista = JSON.parse(data);
     console.log(lista);
+    alldata = "<h1>alla lista</h1>";
+    var top40_2011 = lista.Year.year2011.top40; //get the array
+    for (var i = 0; i < top40_2011.length; i++) {
+      alldata += "<h2>" + top40_2011[i].pos +"</h2>";
+      alldata += "<h2>" + top40_2011[i].artist_namn +"</h2>";
+      alldata += "<h2>" + top40_2011[i].song +"</h2>";
 
+
+      /* Access the values using the keys : */
+      //console.log(top40_2011[i].pos);
+      //console.log(top40_2011[i].artist_namn);
+      //console.log(top40_2011[i].song);
+    }
+    console.log(alldata);
     res.render('index', {
-      lista: lista
-
-
-
+      lista : alldata
     });
   });
 });
