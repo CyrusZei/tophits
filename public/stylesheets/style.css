@@ -7,88 +7,46 @@ body {
   background-size: cover;
 
 }
-div{
-
-}
 
 a {
   color: #00B7FF;
 }
 
-youtube{
-	width: 20%;
-}
-h1,h2,p{
+
+h1,h2 {
 	color: gainsboro;
 
-
+}
+img{
+	width: 13%;
 }
 .youtube{
-	width: 7%;
-	float: left;
-<<<<<<< HEAD
-	margin-left: 670px;
-	 margin-top: -45px;
-=======
-  padding-right: 10px;
-  margin: 20px;
->>>>>>> upstream/master
+	width: 4%;
+	
+	
+    padding-right: 12px;
+    margin:5px;
 	border: 0px;
-
-
 }
 .spotify{
-	    width: 10%;
-	    float: left;
-	    clear: both;
-<<<<<<< HEAD
-	    margin-left: 810px;
-	    margin-top: -48px;
-=======
-      margin: 20px;
-      padding-right: 10px;
-
->>>>>>> upstream/master
-}
-
-.top40{
-
-	   float: left;
-	   width:20%;
-	   padding-right: 50px;
-<<<<<<< HEAD
-	   padding-left: 350px;
-	   
-=======
-	   padding-left: 400px;
-
->>>>>>> upstream/master
-}
-.text{
-
-	float: left;
-
-
-
-
-
-
-
+	    width: 6%;
+        margin: 5px;
+        padding-right: 5px;
 
 }
+
+
+
+
 h1{
-	margin-top: -3px;
-<<<<<<< HEAD
-	line-height: 150%;	
-=======
-	line-height: 200%;
->>>>>>> upstream/master
+
+	line-height: 100%;	
+	font-size: 15px;
+	
+
 }
 h2{
-	line-height: 150%;
-	font-size: 2em;
+	line-height: 100%;
+	font-size: 15px;
 }
-p{
-	line-height: 150%;
-	font-size: 2em;
-}
+
