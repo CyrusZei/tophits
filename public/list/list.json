@@ -16,7 +16,72 @@
             "song": "Party Rock Anthem",
             "spotify": "http://open.spotify.com/track/1CNJyTUh56oj3OCZOZ5way",
             "youtube": "http://youtu.be/KQ6zr6kCPj8"
+            },
+			 {
+            "pos": "top03",
+            "album_cover": "http://o.scdn.co/image/409c641ca368b7b9c589103bb9ca8a5914c640dc",
+            "artist_namn": "Katy Perry",
+            "song": "Firework",
+            "spotify": "http://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt",
+            "youtube": "http://youtu.be/QGJuMBdaqIw"
+            },
+			 {
+            "pos": "top04",
+            "album_cover": "http://o.scdn.co/image/e517a5bfbb4b345c02a8694bf0a6409a2bb39f29",
+            "artist_namn": "Katy Perry",
+            "song": "E.T.",
+            "spotify": "http://open.spotify.com/track/0NwHcjsMMGgolX6CXFDwQT",
+            "youtube": "http://youtu.be/t5Sd5c4o9UM"
+            },
+			{
+            "pos": "top05",
+            "album_cover": "http://o.scdn.co/image/af821d65c1a0a08488ac480247f0b6a77f13f96f",
+            "artist_namn": "Pitbull",
+            "song": "Give Me Everything",
+            "spotify": "http://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
+            "youtube": "http://youtu.be/EPo5wWmKEaI"
+            },
+			{
+            "pos": "top06",
+            "album_cover": "http://o.scdn.co/image/341e01bd8d54f22a750077a06c32e4551bf83065",
+            "artist_namn": "Bruno Mars",
+            "song": "Grenade",
+            "spotify": "http://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8",
+            "youtube": "http://youtu.be/SR6iYWJxHqs"
+            },
+			{
+            "pos": "top07",
+            "album_cover": "http://o.scdn.co/image/9b2a14778138edeb02f83ff30e13fe3b4d17f13c",
+            "artist_namn": "Nicki Minaj",
+            "song": "Super Bass",
+            "spotify": "http://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj",
+            "youtube": "http://youtu.be/4JipHEz53sU"
+            },
+			{
+            "pos": "top08",
+            "album_cover": "http://o.scdn.co/image/6adbb10df4cf42c687b82084e38d6ae606ee14b8",
+            "artist_namn": "Maroon 5",
+            "song": "Moves Like Jagger",
+            "spotify": "http://open.spotify.com/track/1YsMJDSKkkyHcEvs52GXAe",
+            "youtube": "http://youtu.be/iEPTlhBmwRg"
+            },
+			{
+            "pos": "top09",
+            "album_cover": "http://o.scdn.co/image/8465e0539148c8ecba469b19ed549cdf866f7a86",
+            "artist_namn": "The Black Eyed Peas",
+            "song": "Just Cant Get Enough",
+            "spotify": "http://open.spotify.com/track/5TayOsH85LIq21la1XGt1W",
+            "youtube": "http://youtu.be/OrTyD7rjBpw"
+            },
+			{
+            "pos": "top10",
+            "album_cover": "http://o.scdn.co/image/7d90951f0df1ed69c069318ce2bbd3e715c939cf",
+            "artist_namn": "Jennifer Lopez",
+            "song": "On the Floor",
+            "spotify": "http://open.spotify.com/track/7Hv89f7Dpm5Hce1XkBbjQZ",
+            "youtube": "http://youtu.be/t4H_Zoh7G5A"
             }
+			
         ]
     }
 }}

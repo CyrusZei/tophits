@@ -19,7 +19,6 @@ router.get('/', function(req, res, next) {
     var top40_2011 = lista.Year.year2011.top40; //get the array
     for (var i = 0; i < top40_2011.length; i++) {
       alldata += "<img src=\"" + top40_2011[i].album_cover +"\">";
-
       alldata += "<h1>" + top40_2011[i].artist_namn +"</h2>";
       alldata += "<h2>" + top40_2011[i].song +"</h2>";
       alldata += "<a href=\"" + top40_2011[i].spotify +"\"><img src=\"/images/spotify.png\"  class=\"spotify\"></a>";
