@@ -16,7 +16,7 @@ router.get('/', function(req, res, next) {
     lista = JSON.parse(data);
     console.log(lista);
     alldata = "";
-    var top40_2011 = lista.Year.year2011.top40; //get the array
+    var top40_2011 = lista.Year.year2011.top40;
     for (var i = 0; i < top40_2011.length; i++) {
 
       alldata+= "<div class=\"text\">";
@@ -41,7 +41,22 @@ router.get('/', function(req, res, next) {
     res.render('index', {
       lista : alldata
     });
+
   });
 });
 
+router.get('/add',function(req, res, next){
+  var file = __dirname + '/../public/list/list.json';
+
+  res.render('add',{
+    lista_add : 'lista lägga till'
+  });
+});
+
+router.get('/list',function(req, res, next){
+
+  res.render('list',{
+    lista_en :'Visa en'
+  });
+});
 module.exports = router;
