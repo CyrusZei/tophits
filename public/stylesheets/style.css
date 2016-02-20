@@ -1,52 +1,47 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-image: url(/images/black.png) ;
-  background-size:  100%;
+  background-image: url(/images/black.png);
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
-
 a {
   color: #00B7FF;
 }
-
-
-h1,h2 {
-	color: gainsboro;
-
+h1, h2 {
+  color: gainsboro;
 }
-img{
-	width: 13%;
+img {
+  width: 100%;
 }
-.youtube{
-	width: 4%;
-	
-	
-    padding-right: 12px;
-    margin:5px;
-	border: 0px;
+.youtube {
+  width: 50%;
+  padding-right: 12px;
+  margin: 5px;
+  border: 0px;
 }
-.spotify{
-	    width: 6%;
-        margin: 5px;
-        padding-right: 5px;
-
+.spotify {
+  width: 50%;
+  margin: 5px;
+  padding-right: 5px;
 }
-
-
-
-
-h1{
-
-	line-height: 100%;	
-	font-size: 15px;
-	
-
+h1 {
+  line-height: 100%;
+  font-size: 15px;
 }
-h2{
-	line-height: 100%;
-	font-size: 15px;
+h2 {
+  line-height: 100%;
+  font-size: 15px;
 }
 
+.text {
+  width: 230px;
+  margin: 20px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:flex-start;
+}
