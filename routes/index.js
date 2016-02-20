@@ -15,9 +15,10 @@ router.get('/', function(req, res, next) {
 
     lista = JSON.parse(data);
     console.log(lista);
-    alldata = "<div class=\"text\">";
+    alldata = "";
     var top40_2011 = lista.Year.year2011.top40; //get the array
     for (var i = 0; i < top40_2011.length; i++) {
+      alldata+= "<div class=\"text\">";
       alldata += "<img src=\"" + top40_2011[i].album_cover +"\">";
 
       alldata += "<h1>" + top40_2011[i].artist_namn +"</h2>";
