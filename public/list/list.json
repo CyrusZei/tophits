@@ -51,6 +51,14 @@
             },
 			{
             "pos": "Position : 07",
+            "album_cover": "http://o.scdn.co/image/e1f8f3c59a7656421e7ef9d2d81d6727f0f4de02",
+            "artist_namn": "Cee Lo Green",
+            "song": "Fuck You",
+            "spotify": "http://open.spotify.com/track/0Gs5cYR52PDgZ8r8PQYxil",
+            "youtube": "http://youtu.be/pc0mxOXbWIU"
+            },
+			{
+            "pos": "Position : 08",
             "album_cover": "http://o.scdn.co/image/9b2a14778138edeb02f83ff30e13fe3b4d17f13c",
             "artist_namn": "Nicki Minaj",
             "song": "Super Bass",
@@ -58,20 +66,12 @@
             "youtube": "http://youtu.be/4JipHEz53sU"
             },
 			{
-            "pos": "Position : 08",
+			"pos": "Position : 09",
             "album_cover": "http://o.scdn.co/image/6adbb10df4cf42c687b82084e38d6ae606ee14b8",
             "artist_namn": "Maroon 5",
             "song": "Moves Like Jagger",
             "spotify": "http://open.spotify.com/track/1YsMJDSKkkyHcEvs52GXAe",
             "youtube": "http://youtu.be/iEPTlhBmwRg"
-            },
-			{
-            "pos": "Position : 09",
-            "album_cover": "http://o.scdn.co/image/8465e0539148c8ecba469b19ed549cdf866f7a86",
-            "artist_namn": "The Black Eyed Peas",
-            "song": "Just Cant Get Enough",
-            "spotify": "http://open.spotify.com/track/5TayOsH85LIq21la1XGt1W",
-            "youtube": "http://youtu.be/OrTyD7rjBpw"
             },
 			{
             "pos": "Position : 10",
