@@ -51,6 +51,14 @@
             },
 			{
             "pos": "Position : 07",
+            "album_cover": "http://o.scdn.co/image/e1f8f3c59a7656421e7ef9d2d81d6727f0f4de02",
+            "artist_namn": "Cee Lo Green",
+            "song": "Fuck You",
+            "spotify": "http://open.spotify.com/track/0Gs5cYR52PDgZ8r8PQYxil",
+            "youtube": "http://youtu.be/pc0mxOXbWIU"
+            },
+			{
+            "pos": "Position : 08",
             "album_cover": "http://o.scdn.co/image/9b2a14778138edeb02f83ff30e13fe3b4d17f13c",
             "artist_namn": "Nicki Minaj",
             "song": "Super Bass",
@@ -58,7 +66,7 @@
             "youtube": "http://youtu.be/4JipHEz53sU"
             },
 			{
-            "pos": "Position : 08",
+			"pos": "Position : 09",
             "album_cover": "http://o.scdn.co/image/6adbb10df4cf42c687b82084e38d6ae606ee14b8",
             "artist_namn": "Maroon 5",
             "song": "Moves Like Jagger",
@@ -66,21 +74,254 @@
             "youtube": "http://youtu.be/iEPTlhBmwRg"
             },
 			{
-            "pos": "Position : 09",
+            "pos": "Position : 10",
             "album_cover": "http://o.scdn.co/image/8465e0539148c8ecba469b19ed549cdf866f7a86",
             "artist_namn": "The Black Eyed Peas",
             "song": "Just Cant Get Enough",
             "spotify": "http://open.spotify.com/track/5TayOsH85LIq21la1XGt1W",
-            "youtube": "http://youtu.be/OrTyD7rjBpw"
+            "youtube": "http://youtu.be/OrTyD7rjBpw  "
             },
 			{
-            "pos": "Position : 10",
+            "pos": "Position : 11",
             "album_cover": "http://o.scdn.co/image/7d90951f0df1ed69c069318ce2bbd3e715c939cf",
             "artist_namn": "Jennifer Lopez",
             "song": "On the Floor",
             "spotify": "http://open.spotify.com/track/7Hv89f7Dpm5Hce1XkBbjQZ",
             "youtube": "http://youtu.be/t4H_Zoh7G5A"
+            },
+			{
+            "pos": "Position : 12",
+            "album_cover": "http://o.scdn.co/image/29fb2118c6b5d698d7913870cc1f59aa360ed2e7",
+            "artist_namn": "Rihanna",
+            "song": "S and M",
+            "spotify": "http://open.spotify.com/track/1OPgEEjz5gvv2FBl0qxvrA",
+            "youtube": "http://youtu.be/KdS6HFQ_LUc"
+            },
+			{
+            "pos": "Position : 13",
+            "album_cover": "http://o.scdn.co/image/da27360f83b2a1a9dbe7ded42df2d180862af70e",
+            "artist_namn": "Foster the People",
+            "song": "Pumped Up Kicks",
+            "spotify": "http://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5",
+            "youtube": "http://youtu.be/SDTZ7iX4vTQ"
+            },
+			{
+            "pos": "Position : 14",
+            "album_cover": "http://o.scdn.co/image/409c641ca368b7b9c589103bb9ca8a5914c640dc",
+            "artist_namn": "Katy Perry",
+            "song": "Last Friday Night",
+            "spotify": "http://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1",
+            "youtube": "http://youtu.be/KlyXNRrsk4A"
+            },
+			{
+            "pos": "Position : 15",
+            "album_cover": "http://o.scdn.co/image/7ce95b983be09f619e90754c10219cc4cae8ff24",
+            "artist_namn": "Bruno Mars",
+            "song": "Just the Way You Are",
+            "spotify": "http://open.spotify.com/track/24lMtPOCzP5g4hrg3NklLa",
+            "youtube": "http://youtu.be/LjhCEhWiKXk"
+            },
+			{
+            "pos": "Position : 16",
+            "album_cover": "http://o.scdn.co/image/f39ab1dfba7fb9d3c490b28437f3f272e3ef1965",
+            "artist_namn": "Enrique Iglesias",
+            "song": "Tonight",
+            "spotify": "http://open.spotify.com/track/5T9Kx7b2NrZdHiEshXdDrK",
+            "youtube": "http://youtu.be/Jx2yQejrrUE"
+            },
+			{
+            "pos": "Position : 17",
+            "album_cover": "http://o.scdn.co/image/40205f7f647cd18bd48d5046294b54f4d37b3bd9",
+            "artist_namn": "Pink",
+            "song": "Raise Your Glass",
+            "spotify": "http://open.spotify.com/track/12lZTPlXwUtrQuhEty6098",
+            "youtube": "http://youtu.be/XjVNlG5cZyQ"
+            },
+			{
+            "pos": "Position : 18",
+            "album_cover": "http://o.scdn.co/image/b59f854ec0e0c317cb0d367ea91a0e64d4a0c009",
+            "artist_namn": "Lady GaGa",
+            "song": "Born This Way",
+            "spotify": "http://open.spotify.com/track/6wAdqKcL7uESrsekjLTKod",
+            "youtube": "http://youtu.be/wV1FrqwZyKw"
+            },
+			{
+            "pos": "Position : 19",
+            "album_cover": "http://o.scdn.co/image/b01f034a8f6432c6fbe4352c56510185df6e2ed0",
+            "artist_namn": "Pink",
+            "song": "Fuckin Perfect",
+            "spotify": "http://open.spotify.com/track/4SEZthmPtszZPaktPLRX6J",
+            "youtube": "http://youtu.be/n1bcQMCZ5gU"
+            },
+			{
+            "pos": "Position : 20",
+            "album_cover": "http://o.scdn.co/image/4d260dee0245b1e3df5aec287e677d398d603334",
+            "artist_namn": "Rihanna",
+            "song": "Whats My Name",
+            "spotify": "http://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N",
+            "youtube": "http://youtu.be/U0CGsw6h60k"
+            },
+			{
+            "pos": "Position : 21",
+            "album_cover": "http://o.scdn.co/image/ab23b67200912f92a3d211666347619f6f06af3b",
+            "artist_namn": "Chris Brown",
+            "song": "Look At Me Now",
+            "spotify": "http://open.spotify.com/track/7EKTo6rVJ3XSS7QTd6ep2j",
+            "youtube": "http://youtu.be/8gyLR4NfMiI"
+            },
+			{
+            "pos": "Position : 22",
+            "album_cover": "http://o.scdn.co/image/3464917116ef04e7e8c9c5d7fedf911be8505225",
+            "artist_namn": "Jeremih ft 50 cent",
+            "song": "Down On Me",
+            "spotify": "http://open.spotify.com/track/0wpbHnOW0zVUtV10LSj9c9",
+            "youtube": "http://youtu.be/AaXaig_43lU"
+            },
+			{
+            "pos": "Position : 23",
+            "album_cover": "http://o.scdn.co/image/656157139ab311455508db036cb445bd6628fa1d",
+            "artist_namn": "Lil Wayne",
+            "song": "How to Love",
+            "spotify": "http://open.spotify.com/track/19xHOPju4WdsErvJo0gJHc",
+            "youtube": "http://youtu.be/y8Gf4-eT3w0"
+            },
+			{
+            "pos": "Position : 24",
+            "album_cover": "http://o.scdn.co/image/a8b8bbf47fd2a477bf3f247134c99fdaf5b9fdf9",
+            "artist_namn": "Adele",
+            "song": "Someone Like You",
+            "spotify": "http://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN",
+            "youtube": "http://youtu.be/hLQl3WQQoQ0"
+            },
+			{
+            "pos": "Position : 25",
+            "album_cover": "http://o.scdn.co/image/dd0ed884ff8744a41d5e7f83cf6eccdc82757645",
+            "artist_namn": "OneRepublic",
+            "song": "Good Life",
+            "spotify": "http://open.spotify.com/track/1x8AFBt9UEMRY41fSxi7aA",
+            "youtube": "http://youtu.be/jZhQOvvV45w"
+            },
+			{
+            "pos": "Position : 26",
+            "album_cover": "http://o.scdn.co/image/341e01bd8d54f22a750077a06c32e4551bf83065",
+            "artist_namn": "Bruno Mars",
+            "song": "The Lazy Song",
+            "spotify": "http://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp",
+            "youtube": "http://youtu.be/fLexgOxsZu0"
+            },
+			{
+            "pos": "Position : 27",
+            "album_cover": "http://o.scdn.co/image/dee4c34faa22f21e2134a5e096c45c45a17a44a8",
+            "artist_namn": "Britney Spears",
+            "song": "Till the World Ends",
+            "spotify": "http://open.spotify.com/track/0GSVSuB99ikBjWoOrPpgAA",
+            "youtube": "http://youtu.be/qzU9OrZlKb8"
+            },
+			{
+            "pos": "Position : 28",
+            "album_cover": "http://o.scdn.co/image/ee1ebf34fafffc02c7930adc242dbe59dfb7a6aa",
+            "artist_namn": "Lupe Fiasco",
+            "song": "The Show Goes On",
+            "spotify": "http://open.spotify.com/track/5Zn66o8UqjE1e5CtOtM3co",
+            "youtube": "http://youtu.be/Rmp6zIr5y4U"
+            },
+			{
+            "pos": "Position : 29",
+            "album_cover": "http://o.scdn.co/image/c5082b33a66bcd4a83537e07ece345a373751ab7",
+            "artist_namn": "Lady GaGa",
+            "song": "The Edge of Glory",
+            "spotify": "http://open.spotify.com/track/1VpoMzYjmoQMOflZMGTZN3",
+            "youtube": "http://youtu.be/QeWBS0JBNzQ"
+            },
+			{
+            "pos": "Position : 30",
+            "album_cover": "http://o.scdn.co/image/f5ba142ff602f501bca2dbbd72242b5f2712eb2b",
+            "artist_namn": "Ke$ha",
+            "song": "We R Who We R",
+            "spotify": "http://open.spotify.com/track/5jaz6aiRknA63NIYWdbr2O",
+            "youtube": "http://youtu.be/mXvmSaE0JXA"
+            },
+			{
+            "pos": "Position : 31",
+            "album_cover": "http://o.scdn.co/image/24dd8ab42f4d00d87605bcf0d4be1f9e8e9581dc",
+            "artist_namn": "Wiz Khalifa",
+            "song": "Black and Yellow",
+            "spotify": "http://open.spotify.com/track/6NdkIejC39Pcwg9Buw5f2B",
+            "youtube": "http://youtu.be/UePtoxDhJSw"
+            },
+			{
+            "pos": "Position : 32",
+            "album_cover": "http://o.scdn.co/image/2d8976547e8fdf53816ef03095a74cf54d6d379e",
+            "artist_namn": "Ke$ha",
+            "song": "Blow",
+            "spotify": "http://open.spotify.com/track/5FQazQxWUHsJ8QDaXLdFzR",
+            "youtube": "http://youtu.be/CFWX0hWCbng"
+            },
+			{
+            "pos": "Position : 33",
+            "album_cover": "http://o.scdn.co/image/236e623c803cd7778a706e2a72f7f6697fa3380d",
+            "artist_namn": "Bruno Mars",
+            "song": "The Lazy Song",
+            "spotify": "http://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp",
+            "youtube": "http://youtu.be/fLexgOxsZu0"
+            },
+			{
+            "pos": "Position : 34",
+            "album_cover": "http://o.scdn.co/image/fdfd829e4fac4e3e090acc9bd048c202986cb27d",
+            "artist_namn": "Bad Meets Evil",
+            "song": "Lighters",
+            "spotify": "http://open.spotify.com/track/4BWBbJ9MKpnt30SFYEomzJ",
+            "youtube": "http://youtu.be/YWt4wmZ_EMI"
+            },
+			{
+            "pos": "Position : 35",
+            "album_cover": "http://o.scdn.co/image/3ea480c945ffbb96c98007d350869bc60bd36f14",
+            "artist_namn": "The Band Perry",
+            "song": "If I Die Young",
+            "spotify": "http://open.spotify.com/track/3dJ1OgvUKWi46HcRF4hiSq",
+            "youtube": "http://youtu.be/7NJqUN9TClM"
+            },
+			{
+            "pos": "Position : 36",
+            "album_cover": "http://o.scdn.co/image/6d972684ec77df01489fea473a698a9b9a8d3a2e",
+            "artist_namn": "Gym Class Heroes",
+            "song": "Stereo Hearts",
+            "spotify": "http://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz",
+            "youtube": "http://youtu.be/T3E9Wjbq44E"
+            },
+			{
+            "pos": "Position : 37",
+            "album_cover": "http://o.scdn.co/image/12177444a93fd5899e9b8ce031acf969cc813de9",
+            "artist_namn": "The Black Eyed Peas",
+            "song": "The Time",
+            "spotify": "http://open.spotify.com/track/34q1KaLX8h73xE06xPBmNB",
+            "youtube": "http://youtu.be/JwQZQygg3Lk"
+            },
+			{
+            "pos": "Position : 38",
+            "album_cover": "http://o.scdn.co/image/ac19c5ac7668b335b851859ec120d6e75069692f",
+            "artist_namn": "P Diddy",
+            "song": "Coming Home",
+            "spotify": "http://open.spotify.com/track/47hs3xNT3iOGvgmC4eXBAi",
+            "youtube": "http://youtu.be/k-ImCpNqbJw"
+            },
+			{
+            "pos": "Position : 39",
+            "album_cover": "http://o.scdn.co/image/a4af7f7d830572f86e2cfbf67c61f734eb0137bf",
+            "artist_namn": "Pitbull",
+            "song": "Hey Baby",
+            "spotify": "http://open.spotify.com/track/4TdKZCiVpRYBxHOwTeoq4P",
+            "youtube": "http://youtu.be/LefQdEMJP1I"
+            },
+			{
+            "pos": "Position : 40",
+            "album_cover": "http://o.scdn.co/image/84d34f4f1d0cd9690cc1138eebe0c994baccf996",
+            "artist_namn": "Rihanna",
+            "song": "Only Girl",
+            "spotify": "http://open.spotify.com/track/3YJlTDtUXu1sGh8lunblkG",
+            "youtube": "http://youtu.be/pa14VNsdSYM"
             }
+			
 
         ]
     }
